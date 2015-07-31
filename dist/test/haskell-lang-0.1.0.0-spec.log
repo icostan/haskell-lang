@@ -1,0 +1,9 @@
+Test suite spec: RUNNING...
+
+Prelude.head
+  returns the first element of a list
+
+Finished in 0.0001 seconds
+1 example, 0 failures
+Test suite spec: PASS
+Test suite logged to: dist/test/haskell-lang-0.1.0.0-spec.log
